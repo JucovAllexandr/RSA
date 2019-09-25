@@ -1,21 +1,17 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\linux\\RiderProjects\\RSA\\RSA\\RSA.csproj",
+    "projectUniqueName": "/home/sania/RiderProjects/RSA/RSA/RSA.csproj",
     "projectName": "RSA",
-    "projectPath": "C:\\Users\\linux\\RiderProjects\\RSA\\RSA\\RSA.csproj",
-    "outputPath": "C:\\Users\\linux\\RiderProjects\\RSA\\RSA\\obj\\",
+    "projectPath": "/home/sania/RiderProjects/RSA/RSA/RSA.csproj",
+    "outputPath": "/home/sania/RiderProjects/RSA/RSA/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
-    "sources": {
-      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-      "https://api.nuget.org/v3/index.json": {}
-    },
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {}
